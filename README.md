@@ -1,7 +1,5 @@
 # Speech Recognition: From Voice to Text and Back
 
-**Course:** 21CSE453T – Speech Recognition  
-**Activity:** Unit 3 – From Voice to Text and Back (Complete Understanding of ASR and TTS)
 
 ## 📌 Project Overview
 
