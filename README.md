@@ -73,10 +73,6 @@ A lower WER indicates better agreement with the reference transcript. Reliable e
 
 The recognized text is passed to a TTS system to generate speech audio. This demonstrates the reverse direction of the pipeline, from written text back to synthesized speech.
 
-## 📁 Repository Contents
-
-- `Speech_Recognition_Unit_3.ipynb` — Google Colab notebook containing the implementation, visualizations, ASR inference, evaluation, and TTS workflow.
-- `README.md` — Project overview and instructions.
 
 ## ▶️ How to Run
 
@@ -100,14 +96,3 @@ The activity uses the podcast recording *Paying It Forward – Male Episode 1*, 
 
 The notebook processes a selected portion of the recording for analysis. Speech disruptions in the selected segment should be verified by listening to the audio.
 
-## 📌 Learning Outcomes
-
-By completing this activity, the learner gains practical experience with audio preprocessing, spectral visualization, pretrained ASR models, CTC-based transcription, recognition evaluation, and speech synthesis.
-
-## ⚠️ Limitations
-
-Recognition performance may be affected by stuttering, pronunciation variations, pauses, background noise, and model limitations. The models are pretrained and are not specifically fine-tuned for stuttering. Recognition results should therefore be interpreted as an experimental comparison rather than a clinical assessment.
-
-## 👨‍💻 Project Type
-
-Academic coursework — Speech Recognition, Unit 3.
